@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Red de localización y problemas afines." -->
+<?xml-stylesheet href="/plugins/system/ytshortcodes/assets/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Red de Localización y problemas a fines</title>
+		<description><![CDATA[Red de localización y problemas afines de la universidad de las Palmas de Gran Canaria.]]></description>
+		<link>https://redloca.ulpgc.es/</link>
+		<lastBuildDate>Mon, 28 Jul 2025 16:22:20 +0000</lastBuildDate>
+		<generator>Red de localización y problemas afines.</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://redloca.ulpgc.es/?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+	</channel>
+</rss>
